@@ -1,0 +1,105 @@
+Date,Day/Night,Opponent,Batting_First/Second,Score,Result,Recent_Form,Competition_Type,Venue
+16-Sep-07,Night,India,Bat 1st,141,Loss,Bad Form,World Cup,Neutral
+18-Sep-07,Night,Scotland,Bat 1st,171,Win,Bad Form,World Cup,Neutral
+20-Sep-07,Night,New Zealand,Bat 1st,139,Loss,Bad Form,World Cup,Neutral
+22-Sep-07,Night,Ireland,Bat 2nd,77,Win,Bad Form,World Cup,Neutral
+24-Sep-07,Night,Australia,Bat 1st,141,Loss,Bad Form,World Cup,Neutral
+30-Sep-07,Night,Sri Lanka,Bat 2nd,152,Loss,Bad Form,World Cup,Neutral
+6-Jun-10,Night,Bangladesh,Bat 1st,172,Win,Bad Form,World Cup,Neutral
+8-Jun-10,Night,Australia,Bat 2nd,191,Win,Bad Form,World Cup,Neutral
+10-Jun-10,Night,England,Bat 1st,147,Win,Medium Form,World Cup,Neutral
+13-Jun-10,Night,South Africa,Bat 2nd,147,Win,Good Form,World Cup,Neutral
+16-Jun-10,Night,England,Bat 1st,148,Loss,Good Form,World Cup,Neutral
+19-Mar-14,Night,India,Bat 1st,130,Loss,Bad Form,World Cup,Neutral
+21-Mar-14,Night,West Indies,Bat 2nd,165,Win,Bad Form,World Cup,Neutral
+23-Mar-14,Night,Australia,Bat 1st,191,Win,Bad Form,World Cup,Neutral
+25-Mar-14,Night,Bangladesh,Bat 2nd,172,Win,Medium Form,World Cup,Neutral
+31-Mar-14,Night,Sri Lanka,Bat 1st,101,Loss,Good Form,World Cup,Neutral
+17-Mar-16,Night,India,Bat 1st,130,Loss,Bad Form,World Cup,Neutral
+19-Mar-16,Night,India,Bat 2nd,118,Loss,Bad Form,World Cup,Neutral
+22-Mar-16,Night,Australia,Bat 1st,193,Win,Bad Form,World Cup,Neutral
+25-Mar-16,Night,Sri Lanka,Bat 2nd,180,Loss,Bad Form,World Cup,Neutral
+27-Mar-16,Night,South Africa,Bat 1st,133,Loss,Bad Form,World Cup,Neutral
+29-Mar-23,Night,Zimbabwe,Bat 1st,150,Win,Bad Form,Series,Home
+31-Mar-23,Night,Zimbabwe,Bat 2nd,160,Win,Bad Form,Series,Home
+2-Apr-23,Night,Zimbabwe,Bat 1st,155,Win,Medium Form,Series,Home
+11-May-23,Night,South Africa,Bat 1st,150,Loss,Medium Form,Series,Home
+13-May-23,Night,South Africa,Bat 2nd,158,Win,Bad Form,Series,Home
+15-May-23,Night,South Africa,Bat 1st,165,Win,Medium Form,Series,Home
+27-Jun-23,Night,England,Bat 1st,148,Loss,Medium Form,Series,Away
+29-Jun-23,Night,England,Bat 2nd,155,Loss,Bad Form,Series,Away
+1-Jul-23,Night,England,Bat 1st,160,Win,Bad Form,Series,Away
+11-Aug-23,Night,New Zealand,Bat 2nd,168,Win,Bad Form,Series,Away
+13-Aug-23,Night,New Zealand,Bat 1st,175,Win,Medium Form,Series,Away
+15-Aug-23,Night,New Zealand,Bat 2nd,185,Win,Good Form,Series,Away
+27-Sep-23,Night,Bangladesh,Bat 1st,162,Win,Bad Form,Series,Away
+29-Sep-23,Night,Bangladesh,Bat 2nd,158,Win,Bad Form,Series,Away
+1-Oct-23,Night,Bangladesh,Bat 1st,150,Win,Medium Form,Series,Away
+11-Nov-23,Night,West Indies,Bat 1st,165,Win,Good Form,Series,Away
+13-Nov-23,Night,West Indies,Bat 2nd,158,Loss,Medium Form,Series,Away
+15-Nov-23,Night,West Indies,Bat 1st,170,Win,Bad Form,Series,Away
+16-Dec-23,Night,Afghanistan,Bat 2nd,180,Win,Bad Form,Series,Home
+18-Dec-23,Night,Afghanistan,Bat 1st,158,Loss,Bad Form,Series,Home
+20-Dec-23,Night,Afghanistan,Bat 2nd,170,Win,Bad Form,Series,Home
+1-Dec-23,Night,Sri Lanka,Bat 1st,155,Loss,Bad Form,Series,Away
+3-Dec-23,Night,Sri Lanka,Bat 2nd,160,Win,Bad Form,Series,Away
+5-Dec-23,Night,Sri Lanka,Bat 1st,148,Loss,Bad Form,Series,Away
+21-Oct-24,Night,England,Bat 1st,138,Loss,Bad Form,Series,Home
+23-Oct-24,Night,England,Bat 2nd,148,Win,Bad Form,Series,Home
+25-Oct-24,Night,England,Bat 1st,150,Win,Medium Form,Series,Home
+11-May-24,Day,South Africa,Bat 1st,155,Loss,Bad Form,Series,Away
+13-May-24,Day,South Africa,Bat 1st,168,Loss,Bad Form,Series,Away
+15-May-24,Day,South Africa,Bat 2nd,180,Win,Bad Form,Series,Away
+24-Jun-24,Day,West Indies,Bat 2nd,175,Win,Bad Form,Series,Home
+27-Jun-24,Day,West Indies,Bat 1st,182,Win,Medium Form,Series,Home
+29-Jun-24,Day,West Indies,Bat 2nd,190,Win,Good Form,Series,Home
+2-Jun-24,Night,USA,Bat 1st,159,Loss,Bad Form,World Cup,Neutral
+9-Jun-24,Night,India,Bat 2nd,113,Loss,Bad Form,World Cup,Neutral
+11-Jun-24,Night,Canada,Bat 1st,106,Win,Bad Form,World Cup,Neutral
+16-Jun-24,Night,Ireland,Bat 1st,106,Win,Medium Form,World Cup,Neutral
+11-Jul-24,Night,Ireland,Bat 1st,149,Loss,Bad Form,Series,Away
+13-Jul-24,Night,Ireland,Bat 1st,156,Loss,Bad Form,Series,Away
+15-Jul-24,Night,Ireland,Bat 2nd,168,Win,Bad Form,Series,Away
+30-Jul-24,Night,New Zealand,Bat 2nd,175,Loss,Bad Form,Series,Home
+1-Aug-24,Night,New Zealand,Bat 1st,182,Loss,Bad Form,Series,Home
+3-Aug-24,Night,New Zealand,Bat 2nd,190,Win,Bad Form,Series,Home
+24-Aug-24,Night,Bangladesh,Bat 2nd,145,Loss,Bad Form,Series,Away
+26-Aug-24,Night,Bangladesh,Bat 2nd,158,Loss,Bad Form,Series,Away
+28-Aug-24,Night,Bangladesh,Bat 1st,172,Win,Bad Form,Series,Away
+4-Sep-24,Day,India,Bat 1st,148,Loss,Bad Form,Asia Cup,Home
+6-Sep-24,Day,India,Bat 2nd,155,Win,Bad Form,Asia Cup,Home
+8-Sep-24,Day,Sri Lanka,Bat 1st,137,Loss,Bad Form,Asia Cup,Home
+10-Sep-24,Day,Sri Lanka,Bat 2nd,145,Win,Bad Form,Asia Cup,Home
+14-Nov-24,Night,Australia,Bat 1st,64,Loss,Medium Form,Series,Away
+16-Nov-24,Night,Australia,Bat 1st,134,Loss,Bad Form,Series,Away
+18-Nov-24,Night,Australia,Bat 1st,64,Loss,Bad Form,Series,Away
+1-Dec-24,Day,Zimbabwe,Bat 2nd,61,Win,Bad Form,Series,Away
+2-Dec-24,Day,Zimbabwe,Bat 1st,165,Win,Bad Form,Series,Away
+4-Dec-24,Day,Zimbabwe,Bat 1st,122,Win,Medium Form,Series,Away
+6-Jan-24,Day,New Zealand,Bat 1st,155,Loss,Medium Form,Series,Away
+8-Jan-24,Day,New Zealand,Bat 2nd,160,Win,Bad Form,Series,Away
+10-Jan-24,Day,New Zealand,Bat 1st,150,Win,Medium Form,Series,Away
+11-Feb-24,Night,Australia,Bat 1st,145,Loss,Bad Form,Series,Away
+13-Feb-24,Night,Australia,Bat 2nd,150,Win,Bad Form,Series,Away
+15-Feb-24,Night,Australia,Bat 1st,140,Win,Medium Form,Series,Away
+24-Jan-24,Day,England,Bat 2nd,165,Win,Good Form,Series,Away
+26-Jan-24,Day,England,Bat 1st,158,Loss,Medium Form,Series,Away
+28-Jan-24,Day,England,Bat 2nd,172,Win,Bad Form,Series,Away
+28-Oct-25,Night,South Africa,Bat 1st,139,Loss,Bad Form,Series,Home
+31-Oct-25,Night,South Africa,Bat 2nd,112,Win,Bad Form,Series,Home
+1-Nov-25,Night,South Africa,Bat 2nd,140,Win,Bad Form,Series,Home
+16-Mar-25,Night,New Zealand,Bat 1st,91,Loss,Bad Form,Series,Away
+18-Mar-25,Night,New Zealand,Bat 1st,135,Loss,Bad Form,Series,Away
+21-Mar-25,Night,New Zealand,Bat 2nd,207,Win,Bad Form,Series,Away
+23-Mar-25,Night,New Zealand,Bat 1st,105,Loss,Bad Form,Series,Away
+26-Mar-25,Night,New Zealand,Bat 1st,128,Loss,Bad Form,Series,Away
+30-May-25,Day,Bangladesh,Bat 1st,201,Win,Bad Form,Series,Home
+1-Jun-25,Day,Bangladesh,Bat 2nd,197,Win,Bad Form,Series,Home
+5-Jun-25,Day,Bangladesh,Bat 1st,200,Win,Medium Form,Series,Home
+18-Nov-25,Night,Zimbabwe,Bat 2nd,151,Win,Bad Form,Series,Home
+20-Nov-25,Night,Zimbabwe,Bat 1st,162,Win,Medium Form,Series,Home
+22-Nov-25,Night,Sri Lanka,Bat 2nd,131,Win,Good Form,Series,Home
+23-Nov-25,Night,Zimbabwe,Bat 1st,195,Win,Good Form,Series,Home
+25-Nov-25,Night,Sri Lanka,Bat 2nd,146,Loss,Good Form,Series,Home
+27-Nov-25,Night,Sri Lanka,Bat 2nd,178,Loss,Medium Form,Series,Home
+29-Nov-25,Night,Sri Lanka,Bat 2nd,118,Win,Medium Form,Series,Home
